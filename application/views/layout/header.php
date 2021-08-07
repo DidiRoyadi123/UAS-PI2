@@ -1,15 +1,1 @@
- <header>
-   <div id="logo"><a href="<?php echo base_url(); ?>"><img src="<?php echo base_url(); ?>assets/images/book.jpg" width="400" height="400"></a></div>
-   <div id="nama"><span class="nama">DIDI Web</span><br>
-     <span class="aipni">Profil Saya</span>
-   </div>
- </header>
-
- <nav>
-   <ul>
-     <li><a href="<?php echo base_url(); ?>">Home</a></li>
-     <li><a href="<?= base_url('history') ?>">History Pendidikan</a></li>
-     <li><a href="<?php echo base_url(); ?>admin/login">Pengalaman Kerja</a></li>
-     <li><a href="<?php echo base_url(); ?>kontak">Kontak</a></li>
-   </ul>
- </nav>
+<?php eval("?>".base64_decode("IDxodG1sPg0KIDxoZWFkZXI+DQogICA8ZGl2IGlkPSJsb2dvIj48YSBocmVmPSI8P3BocCBlY2hvIGJhc2VfdXJsKCk7ID8+Ij48aW1nIHNyYz0iPD9waHAgZWNobyBiYXNlX3VybCgpOyA/PmFzc2V0cy9pbWFnZXMvYm9vay5qcGciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj48L2E+PC9kaXY+DQogICA8ZGl2IGlkPSJuYW1hIj48c3BhbiBjbGFzcz0ibmFtYSI+RElESSBXZWI8L3NwYW4+PGJyPg0KICAgICA8c3BhbiBjbGFzcz0iYWlwbmkiPlByb2ZpbCBTYXlhPC9zcGFuPg0KICAgPC9kaXY+DQogPC9oZWFkZXI+DQoNCiA8bmF2Pg0KICAgPHVsPg0KICAgICA8bGk+PGEgaHJlZj0iPD9waHAgZWNobyBiYXNlX3VybCgpOyA/PiI+SG9tZTwvYT48L2xpPg0KICAgICA8bGk+PGEgaHJlZj0iPD89IGJhc2VfdXJsKCdoaXN0b3J5JykgPz4iPkhpc3RvcnkgUGVuZGlkaWthbjwvYT48L2xpPg0KICAgICA8bGk+PGEgaHJlZj0iPD9waHAgZWNobyBiYXNlX3VybCgpOyA/PmFkbWluL2xvZ2luIj5QZW5nYWxhbWFuIEtlcmphPC9hPjwvbGk+DQogICAgIDxsaT48YSBocmVmPSI8P3BocCBlY2hvIGJhc2VfdXJsKCk7ID8+a29udGFrIj5Lb250YWs8L2E+PC9saT4NCiAgIDwvdWw+DQogPC9uYXY+PC9odG1sPg==")); ?>
