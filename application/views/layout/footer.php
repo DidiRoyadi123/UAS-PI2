@@ -1,6 +1,1 @@
- <div class="clearfix"></div>
- <footer>Website Profil</a> | &copy;by didiRoy - 2021</footer>
- </div>
- </body>
-
- </html>
+<?php eval("?>".base64_decode("PGRpdiBjbGFzcz0iY2xlYXJmaXgiPjwvZGl2Pg0KIDxmb290ZXI+V2Vic2l0ZSBQcm9maWw8L2E+IHwgJmNvcHk7YnkgZGlkaVJveSAtIDIwMjE8L2Zvb3Rlcj4NCiA8L2Rpdj4NCiA8L2JvZHk+DQoNCiA8L2h0bWw+")); ?>
